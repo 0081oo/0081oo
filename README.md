@@ -24,8 +24,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-  <a href="https://ico020496.myportfolio.com/" target="_blank"><img alt="Email" src="https://img.shields.io/website?up_color=yellow&up_message=Design%20Portfolio&url=https%3A%2F%2Fico020496.myportfolio.com%2F"></a>
+  <a href="https://ico020496.myportfolio.com/" target="blank"><img alt="Email" src="https://img.shields.io/website?up_color=yellow&up_message=Design%20Portfolio&url=https%3A%2F%2Fico020496.myportfolio.com%2F"></a>
 </p>
 
 
 <!-- ⭐️ Template From [AVS1508](https://github.com/AVS1508) -->
+<!-- https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/short-and-sweet/AVS1508.md -->
