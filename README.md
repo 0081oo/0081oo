@@ -5,6 +5,8 @@
 - 🎓 &nbsp; Studying Computer Engineering at Inha University.
 - 🌱 &nbsp; Learning Web Programming.
 
+<br>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -20,12 +22,12 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br/>
+<br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-  <a href="https://ico020496.myportfolio.com/"><img alt="Email" src="https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=Design%20Portfolio&url=https%3A%2F%2Fico020496.myportfolio.com%2F"></a>
+<p align="left">
+  <a href="https://ico020496.myportfolio.com/"><img alt="Email" src="https://img.shields.io/website?up_color=yellow&up_message=Design%20Portfolio&url=https%3A%2F%2Fico020496.myportfolio.com%2F"></a>
 </p>
 
 
