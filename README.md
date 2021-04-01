@@ -21,7 +21,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> ⭐️ &nbsp;Website </h3>
 
 <p align="left">
   <a href="https://ico020496.myportfolio.com/" target="_blank"><img alt="Email" src="https://img.shields.io/website?up_color=yellow&up_message=Design%20Portfolio&url=https%3A%2F%2Fico020496.myportfolio.com%2F"></a>
