@@ -40,8 +40,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ico020496.myportfolio.com/"><img alt="Design Portfolio" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:ico020496@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+https://img.shields.io/website?style=for-the-badge&up_color=yellow&up_message=Design%20Portfolio&url=https%3A%2F%2Fico020496.myportfolio.com%2F
 </p>
 
 
