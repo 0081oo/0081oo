@@ -5,7 +5,6 @@
 - 🎓 &nbsp; Studying Computer Engineering at Inha University.
 - 🌱 &nbsp; Learning Web Programming.
 
-<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -22,8 +21,6 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<br>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
@@ -31,4 +28,4 @@
 </p>
 
 
-⭐️ Template From [AVS1508](https://github.com/AVS1508)
+<!-- ⭐️ Template From [AVS1508](https://github.com/AVS1508) -->
