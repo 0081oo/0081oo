@@ -2,7 +2,7 @@
 
 <h3> ✨ &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Engineering at Inha University.
+- 🎓 &nbsp; Majored in Computer Science at Inha University.
 - 🌱 &nbsp; Learning Web Programming.
 
 
