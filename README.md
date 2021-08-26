@@ -27,10 +27,12 @@
 - 🎨 &nbsp;
   <a href="https://ico020496.myportfolio.com/" target="_blank"><img alt="Web" src="https://img.shields.io/badge/-DESIGN%20PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor?link"></a>
   
-  
-  
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0081oo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
 
