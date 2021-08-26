@@ -29,7 +29,9 @@
   
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/0081oo)
+<h3> ⭐️ &nbsp; </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0081oo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
