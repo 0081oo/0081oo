@@ -3,7 +3,7 @@
 <h3> ✨ &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Majored in Computer Science at Inha University.
-- 🌱 &nbsp; Studying Creative Coding.
+- 🌱 &nbsp; Studying Design and Coding.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
